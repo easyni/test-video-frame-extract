@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": false,
+    "checkJs": false,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "listFiles": false,
+    "sourceMap": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "strict": true,
+    "lib": [
+      "dom",
+      "ESNext"
+    ]
+  }
+}
